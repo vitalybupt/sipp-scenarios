@@ -1,4 +1,4 @@
 SEQUENTIAL
 # user, domain, authentication
-test;pbx.saghul.lan;[authentication username=test password=test]
-
+#test;pbx.saghul.lan;[authentication username=test password=test]
+5010;192.168.225.3;
